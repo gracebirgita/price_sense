@@ -1,4 +1,4 @@
-# price_sense
+# Price Sense
 
 Platform berbasis AI yang mampu menampilkan dan mengklasifikasikan harga sembako secara real-time berdasarkan wilayah masing-masing pengguna. 
 Sistem ini tentunya memberikan berbagai manfaat bagi pengguna diantaranya adalah pengguna dapat mengatur pengeluaran dengan lebih bijak, 
