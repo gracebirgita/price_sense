@@ -4,7 +4,8 @@ import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 
 
-model = joblib.load("halaman/RF_model.pkl")
+# model = joblib.load("halaman/RF_model.pkl")
+model = joblib.load("priceSense_web/halaman/RF_model.pkl")
 
 st.set_page_config(layout="wide")
 
